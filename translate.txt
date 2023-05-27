@@ -42,7 +42,6 @@ Dựa vào dữ liệu trên, hãy cho biết ý kiến của bạn về:
 	
 Part 3:Extended question 	
 1 Bạn có ý tưởng gì cho Momo trong chiến lược phát triển chương trình khách hàng thân thiết?
-
 2 Gamification thường là một lựa chọn hợp lý cho các ứng dụng để nâng cao mức độ gắn bó của người dùng. Trong chiến lược phát triển chương trình khách hàng thân thiết, chúng tôi cũng dự định tổ chức một trò chơi nhỏ dành cho người dùng. Quy tắc rất đơn giản: bất kỳ người dùng nào có thể duy trì xếp hạng KIM CƯƠNG trong 20 ngày trở lên đều là người chiến thắng (nói cách khác, người chiến thắng là người dùng có tổng điểm trung thành lớn hơn hoặc bằng 5.000 trong ít nhất 20 lần liên tiếp ngày). Chúng tôi cũng muốn trao phần thưởng đặc biệt cho (những) người dùng có thể duy trì thành tích lâu nhất. Bạn có thể giúp chúng tôi tính toán có bao nhiêu người chiến thắng trong ba mươi ngày qua theo dữ liệu đã cho (01 tháng 3 - 31 tháng 3) và ai là (những) người có kỷ lục dài nhất trong thời gian đó?
 
 
