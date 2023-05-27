@@ -26,12 +26,23 @@ Xếp hạng phải tuân theo các quy tắc/bảng dưới đây:...
 "* Lưu ý quan trọng:
 - Điểm được tính cho mỗi giao dịch sẽ hết sau 30 ngày kể từ ngày giao dịch đó được thực hiện
 - Xếp hạng của người dùng sẽ bị giảm hoặc tăng tương ứng với sự thay đổi của điểm trung thành tích lũy của họ."
+
+2, Kết hợp với bảng 'Loyalty benefits' và bảng 'Loyalty Ranking',hãy thêm cột '%cashback' trong bảng "Transactions" và tính tổng chi phí hoàn tiền vào tháng 2 năm 2022.
+* Ghi chú:
+- Chi phí hoàn tiền có thể được tính bằng cách nhân %cashback với GMV
+- Người dùng chỉ được yêu cầu tối đa 10.000 VND cho mỗi giao dịch"
+
+3, Thiết kế biểu đồ duy trì hàng tuần kể từ khi chương trình ra mắt để theo dõi
+
 Part 2 : Analyze and comment
 Dựa vào dữ liệu trên, hãy cho biết ý kiến của bạn về:
 1, Tỷ lệ giữ chân người dùng và hành vi giao dịch (Có xu hướng nào không?) kể từ khi chương trình Khách hàng thân thiết ra mắt. Anh có lời khuyên nào cho bộ phận Marketing trong việc thiết kế các chiến dịch khuyến mãi để tăng hiệu suất giữ chân người dùng hàng tháng không?
-2, Momo đang phải đối mặt với chi phí hoàn lại tiền cũng như GMV ngày càng tăng kể từ khi ra mắt. Tuy nhiên, chúng tôi muốn tối ưu hóa chi phí nhưng vẫn muốn giữ tăng trưởng GMV và tăng tỷ lệ giữ chân. Dựa trên dữ liệu đã cho, vui lòng đề xuất các ý tưởng để thay đổi chế độ lợi ích Loyalty và Điểm Loyalty để giảm bớt chi phí.	
+
+2, Momo đang phải đối mặt với chi phí hoàn lại tiền cũng như GMV ngày càng tăng kể từ khi ra mắt. Tuy nhiên, chúng tôi muốn tối ưu hóa chi phí nhưng vẫn muốn giữ tăng trưởng GMV và tăng tỷ lệ giữ chân. Dựa trên dữ liệu đã cho, vui lòng đề xuất các ý tưởng để thay đổi chế độ lợi ích Loyalty và Điểm Loyalty để giảm bớt chi phí.
+	
 Part 3:Extended question 	
 1 Bạn có ý tưởng gì cho Momo trong chiến lược phát triển chương trình khách hàng thân thiết?
+
 2 Gamification thường là một lựa chọn hợp lý cho các ứng dụng để nâng cao mức độ gắn bó của người dùng. Trong chiến lược phát triển chương trình khách hàng thân thiết, chúng tôi cũng dự định tổ chức một trò chơi nhỏ dành cho người dùng. Quy tắc rất đơn giản: bất kỳ người dùng nào có thể duy trì xếp hạng KIM CƯƠNG trong 20 ngày trở lên đều là người chiến thắng (nói cách khác, người chiến thắng là người dùng có tổng điểm trung thành lớn hơn hoặc bằng 5.000 trong ít nhất 20 lần liên tiếp ngày). Chúng tôi cũng muốn trao phần thưởng đặc biệt cho (những) người dùng có thể duy trì thành tích lâu nhất. Bạn có thể giúp chúng tôi tính toán có bao nhiêu người chiến thắng trong ba mươi ngày qua theo dữ liệu đã cho (01 tháng 3 - 31 tháng 3) và ai là (những) người có kỷ lục dài nhất trong thời gian đó?
 
 
